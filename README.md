@@ -1,4 +1,10 @@
-# todoapp
+# Todo app
+
+Simple todo app. Add tasks, view tasks with filters 
+
+Link: 
+
+https://etaskstodo.netlify.app/add-task
 
 ## Project setup
 ```
